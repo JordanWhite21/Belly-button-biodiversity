@@ -1,5 +1,11 @@
 body {
 
-    color: #000000;
-    background-color: rgb(155, 194, 199);
+  color: black;
+  font-family: Verdana;
+}
+
+.jumbotron {
+    background-image: url("bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
   }
